@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: r7x6cm335-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/r7x6cm335-go
